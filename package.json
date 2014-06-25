@@ -1,0 +1,37 @@
+{
+  "name": "usermin",
+  "version": "1.6.00-r1",
+  "description": "Usermin allows non-root users to use Webmin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tjwebb/node-usermin.git"
+  },
+  "slug": {
+    "org": "webmin",
+    "name": "usermin",
+    "url": "https://github.com/webmin/usermin/",
+    "tag": "cf88d1b"
+  },
+  "bin": {
+    "usermin": "index.js"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "xmin",
+    "webmin",
+    "usermin",
+    "sysadmin",
+    "control",
+    "panel"
+  ],
+  "author": "Travis Webb <me@traviswebb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjwebb/node-usermin/issues"
+  },
+  "homepage": "https://github.com/tjwebb/node-usermin",
+  "dependencies": {
+    "xmin": "^0.9.0"
+  }
+}
