@@ -1,6 +1,6 @@
 {
   "name": "usermin",
-  "version": "1.6.00-r1",
+  "version": "1.6.00-r2",
   "description": "Usermin allows non-root users to use Webmin",
   "main": "index.js",
   "repository": {
